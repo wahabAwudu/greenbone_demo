@@ -130,5 +130,3 @@ python manage.py test
 **Module Implementation:**
 - Mac address and Ip Addresses can be made unique and further validations implemented.
 - Signals can also be properly tested to make sure all conditions are met.
-- 
-
